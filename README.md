@@ -16,6 +16,4 @@ python3.exe mailer.py
 ~~~
 # Linux
 python3 mailer.py
-~~~
-
-# Отказ от отвественности
+~~
