@@ -1,0 +1,5 @@
+Hi, Dude!
+
+Hello from plain mail body.
+
+Mailer
